@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF">
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="196.57dp"
+            app:srcCompat="@drawable/camera_activity_white_box"
+            android:id="@+id/imageView3"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+    <ImageView
+            android:layout_width="57.14dp"
+            android:layout_height="57.14dp"
+            app:srcCompat="@drawable/camera_activity_camera_button"
+            android:id="@+id/imageViewPhoto"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="46.28dp"/>
+
+    <ImageView
+            android:layout_width="42.86dp"
+            android:layout_height="42.86dp"
+            app:srcCompat="@drawable/btn_get_image"
+            android:id="@+id/btn_get_image"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="65.14dp"
+            android:layout_marginBottom="53.42dp"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:text="QR코드를 인식해주세요!"
+            android:textAlignment="center"
+            android:layout_marginBottom="135.71dp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/queryValueText"
+        android:background="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:gravity="center"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

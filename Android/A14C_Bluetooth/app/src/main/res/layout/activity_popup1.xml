@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="321.71dp"
+             android:layout_height="380dp"
+             android:layout_gravity="center_horizontal"
+             android:layout_marginTop="230dp"
+             android:background="@android:color/transparent"
+             android:orientation="vertical">
+
+    <!-- 타이틀바 -->
+    <LinearLayout
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/round">
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="16.85dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="36dp"
+                android:layout_marginBottom="25.14dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/pablo_logo" />
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="23dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/tomato_img" />
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="25dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="10dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/text1" />
+
+        <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="15dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="36.14dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/text2" />
+
+
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+            <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+            <ImageView
+                    android:id="@+id/buy_btn"
+                    android:layout_width="111.42dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="34dp"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/buy_btn" />
+
+            <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+            <ImageView
+                    android:id="@+id/exit_btn"
+                    android:layout_width="111.42dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginBottom="34dp"
+                    android:adjustViewBounds="true"
+                    android:src="@drawable/exit_btn" />
+
+            <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>
