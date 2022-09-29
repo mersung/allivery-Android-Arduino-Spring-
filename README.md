@@ -104,6 +104,12 @@
 ![image](https://user-images.githubusercontent.com/86938974/193070157-bc787687-a5a4-4941-ab97-27a74f5ea0f7.png)
 ![image](https://user-images.githubusercontent.com/86938974/193070169-6f0ed00b-6239-4040-8cc0-496640ca98f8.png)
 
+#
+## 구현영상
+***
+
+https://user-images.githubusercontent.com/86938974/193071304-b25167b2-cdcc-4cfc-81d7-1a5df3b1efc2.mp4
+
 
 
 
