@@ -79,18 +79,22 @@
 ## UI 설계서
 ***
 [로그인/회원가입 화면]
+***
 ![image](https://user-images.githubusercontent.com/86938974/193069298-11a109d4-e44b-4be0-9793-7ecec85ec5d9.png)
 
 ***
 [홈/구매 화면]
+***
 ![image](https://user-images.githubusercontent.com/86938974/193069370-7475f618-b1da-4020-bfab-4b23823507a0.png)
 
 ***
 [QR코드/장바구니 화면]
+***
 ![image](https://user-images.githubusercontent.com/86938974/193069655-75fa973e-aea4-41c3-a67b-9ced1ae95e4d.png)
 
 ***
 [QR 수령 화면]
+***
 ![image](https://user-images.githubusercontent.com/86938974/193069692-9fe73409-948e-4c74-a4c3-f3614e2e99d2.png)
 
 
