@@ -98,7 +98,9 @@
 ## 하드웨어(3D 프린터)
 ***
 ![image](https://user-images.githubusercontent.com/86938974/193070093-5b1157ac-5964-4981-b4a0-cb02c04b6de5.png)
-![image](https://user-images.githubusercontent.com/86938974/193070142-6b810819-ff64-4b89-8656-1a0ae672a5c4.png)
+
+
+![image](https://user-images.githubusercontent.com/86938974/193070417-1c28b28c-226e-480f-b35a-84f6c7b4dc64.png)
 ![image](https://user-images.githubusercontent.com/86938974/193070157-bc787687-a5a4-4941-ab97-27a74f5ea0f7.png)
 ![image](https://user-images.githubusercontent.com/86938974/193070169-6f0ed00b-6239-4040-8cc0-496640ca98f8.png)
 
